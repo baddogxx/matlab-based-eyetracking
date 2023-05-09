@@ -20,5 +20,6 @@ ___
 - `matlab`中需要另外安装图像采集工具箱（`imag acquisition toolbox  support package for os generic video interface`）.
 - 项目目前准确度不太理想，对光线要求高.
 - `EyeTracking_main.m`运行时必须让程序自动跑完（程序自动关闭摄像头），若摄像头没有正常关闭，下一次开启时会报错（这时重新打开`matlab`就能解决）。
-
+___
+如果有什么可以交流的可以加QQ：2521061290（注明来意）。
 
